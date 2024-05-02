@@ -1,4 +1,4 @@
-# TensorFlow Optimizer of the Analytic Free Energy Model of Molecular Binding 
+# TensorFlow Optimizer of the Analytical Free Energy Model of Molecular Binding 
 
 A class based on TensorFlow for the Maximum Likelihood optimization of the analytic model for the free energy of molecular binding.
 
